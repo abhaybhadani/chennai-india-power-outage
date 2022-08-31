@@ -1,4 +1,4 @@
-pip==22.2.1
+pip==22.2.2
 Pillow==9.2.0
 streamlit==1.11.0
 DateTime==4.5
@@ -14,4 +14,4 @@ streamlit-option-menu==0.3.2
 xgboost==1.6.1
 pybase64==1.2.2
 matplotlib==3.5.2
-
+keras==2.9.0
